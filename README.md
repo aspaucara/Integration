@@ -1,4 +1,4 @@
 Integration
 ===========
 
-Para sistemas distribuidos
+Para sistemas distribuidos de integracion
